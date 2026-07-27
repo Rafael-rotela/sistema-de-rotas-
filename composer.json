@@ -1,0 +1,17 @@
+{
+    "name": "rjvra/sistema-de-rotas",
+    "autoload": {
+        "psr-4": {
+            "Rjvra\\SistemaDeRotas\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael  Rotela",
+            "email": "rjvrafael22@gmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.6"
+    }
+}
